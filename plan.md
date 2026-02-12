@@ -4,7 +4,7 @@ This file tracks the progress of converting the "Full Repatriation Guide" PDF in
 
 ## Phase 1: Setup
 - [x] Split PDF into 10-page chunks (`pdf_chunks/`)
-- [ ] Initialize `docs.json` structure (if needed)
+- [x] Initialize `docs.json` structure (if needed)
 
 ## Phase 2: Content Migration
 We will process the PDF in chunks. For each chunk, we will:
@@ -15,11 +15,11 @@ We will process the PDF in chunks. For each chunk, we will:
 
 ### Progress Tracker
 
-- [ ] **Chunk 1 (Pages 1-10)**
-    - Status: Pending
-    - Content covered: (To be filled)
-    - Files created:
-    - `docs.json` updated: [ ]
+- [x] **Chunk 1 (Pages 1-10)**
+    - Status: Completed
+    - Content covered: Country Info, Repat Armenia, Planning, Arrival, First Steps, Cost of Living, Moving Belongings, Financials (Intro).
+    - Files created: `country-info.mdx`, `repat-armenia.mdx`, `planning.mdx`, `arrival.mdx`, `first-steps.mdx`, `cost-of-living.mdx`, `moving-belongings.mdx`, `financials.mdx`.
+    - `docs.json` updated: [x]
 
 - [ ] **Chunk 2 (Pages 11-20)**
     - Status: Pending

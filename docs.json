@@ -16,7 +16,25 @@
           {
             "group": "Introduction",
             "pages": [
-              "index"
+              "index",
+              "essentials/country-info",
+              "essentials/repat-armenia"
+            ]
+          },
+          {
+            "group": "The Move",
+            "pages": [
+              "essentials/planning",
+              "essentials/moving-belongings",
+              "essentials/arrival"
+            ]
+          },
+          {
+            "group": "Settling In",
+            "pages": [
+              "essentials/first-steps",
+              "essentials/cost-of-living",
+              "essentials/financials"
             ]
           }
         ]
