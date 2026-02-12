@@ -18,7 +18,8 @@
             "pages": [
               "content/index",
               "content/introduction/country-info",
-              "content/introduction/repat-armenia"
+              "content/introduction/repat-armenia",
+              "content/introduction/emergency-contacts"
             ]
           }
         ]
@@ -50,7 +51,8 @@
             "group": "Housing",
             "pages": [
               "content/living/accommodations",
-              "content/living/cost-of-living"
+              "content/living/cost-of-living",
+              "content/living/retirement"
             ]
           },
           {

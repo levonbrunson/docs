@@ -51,11 +51,11 @@ We will process the PDF in chunks. For each chunk, we will:
     - Files created: `daily-life.mdx`, updated `taxes.mdx`.
     - `docs.json` updated: [x]
 
-- [ ] **Chunk 7 (Pages 61-70)**
-    - Status: Pending
-    - Content covered: (To be filled)
-    - Files created:
-    - `docs.json` updated: [ ]
+- [x] **Chunk 7 (Pages 61-70)**
+    - Status: Completed
+    - Content covered: Retirement (Details, Homes), Emergency Contacts, Appendices (Institutions, Holidays, Polyclinics).
+    - Files created: `retirement.mdx`, `emergency-contacts.mdx`.
+    - `docs.json` updated: [x]
 
 - [ ] **Chunk 8 (Pages 71-73)**
     - Status: Pending
