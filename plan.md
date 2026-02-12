@@ -21,11 +21,11 @@ We will process the PDF in chunks. For each chunk, we will:
     - Files created: `country-info.mdx`, `repat-armenia.mdx`, `planning.mdx`, `arrival.mdx`, `first-steps.mdx`, `cost-of-living.mdx`, `moving-belongings.mdx`, `financials.mdx`.
     - `docs.json` updated: [x]
 
-- [ ] **Chunk 2 (Pages 11-20)**
-    - Status: Pending
-    - Content covered: (To be filled)
-    - Files created:
-    - `docs.json` updated: [ ]
+- [x] **Chunk 2 (Pages 11-20)**
+    - Status: Completed
+    - Content covered: Financials (Banks, Loans, Savings), Marriage & Divorce, Employment (Rights, Permits, Freelancing).
+    - Files created: Updated `financials.mdx`, created `marriage-divorce.mdx`, `employment.mdx`.
+    - `docs.json` updated: [x]
 
 - [ ] **Chunk 3 (Pages 21-30)**
     - Status: Pending
