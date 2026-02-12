@@ -57,11 +57,11 @@ We will process the PDF in chunks. For each chunk, we will:
     - Files created: `retirement.mdx`, `emergency-contacts.mdx`.
     - `docs.json` updated: [x]
 
-- [ ] **Chunk 8 (Pages 71-73)**
-    - Status: Pending
-    - Content covered: (To be filled)
-    - Files created:
-    - `docs.json` updated: [ ]
+- [x] **Chunk 8 (Pages 71-73)**
+    - Status: Completed
+    - Content covered: Schools with Language Focus (English, Russian, Chinese, etc.), Inclusive Schools.
+    - Files created: `language-schools.mdx`.
+    - `docs.json` updated: [x]
 
 ## Phase 3: Review and Polish
 - [ ] Verify all links and navigation
