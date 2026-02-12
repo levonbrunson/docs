@@ -26,7 +26,8 @@
             "pages": [
               "essentials/planning",
               "essentials/moving-belongings",
-              "essentials/arrival"
+              "essentials/arrival",
+              "essentials/legal-status"
             ]
           },
           {
@@ -36,7 +37,9 @@
               "essentials/cost-of-living",
               "essentials/financials",
               "essentials/employment",
-              "essentials/marriage-divorce"
+              "essentials/marriage-divorce",
+              "essentials/accommodations",
+              "essentials/getting-around"
             ]
           }
         ]

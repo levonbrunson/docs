@@ -27,11 +27,11 @@ We will process the PDF in chunks. For each chunk, we will:
     - Files created: Updated `financials.mdx`, created `marriage-divorce.mdx`, `employment.mdx`.
     - `docs.json` updated: [x]
 
-- [ ] **Chunk 3 (Pages 21-30)**
-    - Status: Pending
-    - Content covered: (To be filled)
-    - Files created:
-    - `docs.json` updated: [ ]
+- [x] **Chunk 3 (Pages 21-30)**
+    - Status: Completed
+    - Content covered: Legal Status (Residency, Citizenship, Military), Embassies, Accommodations (Renting, Buying), Getting Around.
+    - Files created: `legal-status.mdx`, `accommodations.mdx`, `getting-around.mdx`.
+    - `docs.json` updated: [x]
 
 - [ ] **Chunk 4 (Pages 31-40)**
     - Status: Pending
