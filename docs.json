@@ -11,35 +11,65 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guide",
+        "tab": "Introduction",
         "groups": [
           {
-            "group": "Introduction",
+            "group": "Welcome",
             "pages": [
               "index",
               "essentials/country-info",
               "essentials/repat-armenia"
             ]
-          },
+          }
+        ]
+      },
+      {
+        "tab": "The Move",
+        "groups": [
           {
-            "group": "The Move",
+            "group": "Preparation",
             "pages": [
               "essentials/planning",
-              "essentials/moving-belongings",
-              "essentials/arrival",
-              "essentials/legal-status"
+              "essentials/moving-belongings"
             ]
           },
           {
-            "group": "Settling In",
+            "group": "Arrival & Status",
             "pages": [
+              "essentials/arrival",
               "essentials/first-steps",
-              "essentials/cost-of-living",
-              "essentials/financials",
-              "essentials/employment",
-              "essentials/marriage-divorce",
+              "essentials/legal-status"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Living",
+        "groups": [
+          {
+            "group": "Housing",
+            "pages": [
               "essentials/accommodations",
-              "essentials/getting-around"
+              "essentials/cost-of-living"
+            ]
+          },
+          {
+            "group": "Daily Life",
+            "pages": [
+              "essentials/getting-around",
+              "essentials/marriage-divorce"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Work & Finance",
+        "groups": [
+          {
+            "group": "Economy",
+            "pages": [
+              "essentials/employment",
+              "essentials/financials"
             ]
           }
         ]
