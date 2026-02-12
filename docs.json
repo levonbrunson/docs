@@ -102,6 +102,13 @@
     }
   },
   "footer": {
-    "socials": {}
+    "socials": {
+      "website": "https://repatarmenia.org",
+      "facebook": "https://facebook.com/repatarmenia",
+      "instagram": "https://instagram.com/repatarmenia",
+      "x": "https://x.com/repatarmenia",
+      "linkedin": "https://linkedin.com/company/repatarmenia",
+      "youtube": "https://youtube.com/@repatarmenia"
+    }
   }
 }
