@@ -2,7 +2,7 @@
 import os
 from pypdf import PdfReader, PdfWriter
 
-def split_pdf(input_path, output_dir, chunk_size=10):
+def split_pdf(input_path, output_dir, chunk_size=1):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
@@ -18,7 +18,8 @@ def split_pdf(input_path, output_dir, chunk_size=10):
         for i in range(start_page, end_page):
             writer.add_page(reader.pages[i])
             
-        output_filename = f"chunk_{start_page // chunk_size + 1:02d}_pages_{start_page + 1}-{end_page}.pdf"
+        # 1-based indexing for filename
+        output_filename = f"page_{start_page + 1:02d}.pdf"
         output_path = os.path.join(output_dir, output_filename)
         
         with open(output_path, "wb") as output_file:
@@ -28,5 +29,5 @@ def split_pdf(input_path, output_dir, chunk_size=10):
 
 if __name__ == "__main__":
     input_pdf = "/Users/levon/Code/docs/full-repatriation-guide-enpdf_2.pdf"
-    output_directory = "pdf_chunks"
-    split_pdf(input_pdf, output_directory)
+    output_directory = "pdf_pages"
+    split_pdf(input_pdf, output_directory, chunk_size=1)
