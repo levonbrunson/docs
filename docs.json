@@ -76,7 +76,9 @@
             "group": "Economy",
             "pages": [
               "essentials/employment",
-              "essentials/financials"
+              "essentials/financials",
+              "essentials/entrepreneurship",
+              "essentials/taxes"
             ]
           }
         ]

@@ -39,11 +39,11 @@ We will process the PDF in chunks. For each chunk, we will:
     - Files created: `medical.mdx`, `education.mdx`, updated `getting-around.mdx` (car purchase).
     - `docs.json` updated: [x]
 
-- [ ] **Chunk 5 (Pages 41-50)**
-    - Status: Pending
-    - Content covered: (To be filled)
-    - Files created:
-    - `docs.json` updated: [ ]
+- [x] **Chunk 5 (Pages 41-50)**
+    - Status: Completed
+    - Content covered: International Schools, Special Needs Education, Sports, Military Service (Details), Day-to-Day Life, Entrepreneurship, Taxes.
+    - Files created: `entrepreneurship.mdx`, `taxes.mdx`, updated `education.mdx`, `medical.mdx`, `legal-status.mdx`.
+    - `docs.json` updated: [x]
 
 - [ ] **Chunk 6 (Pages 51-60)**
     - Status: Pending
