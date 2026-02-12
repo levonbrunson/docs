@@ -16,9 +16,9 @@
           {
             "group": "Welcome",
             "pages": [
-              "index",
-              "essentials/country-info",
-              "essentials/repat-armenia"
+              "content/index",
+              "content/introduction/country-info",
+              "content/introduction/repat-armenia"
             ]
           }
         ]
@@ -29,16 +29,16 @@
           {
             "group": "Preparation",
             "pages": [
-              "essentials/planning",
-              "essentials/moving-belongings"
+              "content/move/planning",
+              "content/move/moving-belongings"
             ]
           },
           {
             "group": "Arrival & Status",
             "pages": [
-              "essentials/arrival",
-              "essentials/first-steps",
-              "essentials/legal-status"
+              "content/move/arrival",
+              "content/move/first-steps",
+              "content/move/legal-status"
             ]
           }
         ]
@@ -49,22 +49,22 @@
           {
             "group": "Housing",
             "pages": [
-              "essentials/accommodations",
-              "essentials/cost-of-living"
+              "content/living/accommodations",
+              "content/living/cost-of-living"
             ]
           },
           {
             "group": "Health & Education",
             "pages": [
-              "essentials/medical",
-              "essentials/education"
+              "content/living/medical",
+              "content/living/education"
             ]
           },
           {
             "group": "Daily Life",
             "pages": [
-              "essentials/getting-around",
-              "essentials/marriage-divorce"
+              "content/living/getting-around",
+              "content/living/marriage-divorce"
             ]
           }
         ]
@@ -75,10 +75,10 @@
           {
             "group": "Economy",
             "pages": [
-              "essentials/employment",
-              "essentials/financials",
-              "essentials/entrepreneurship",
-              "essentials/taxes"
+              "content/work-finance/employment",
+              "content/work-finance/financials",
+              "content/work-finance/entrepreneurship",
+              "content/work-finance/taxes"
             ]
           }
         ]
