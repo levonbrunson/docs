@@ -54,6 +54,13 @@
             ]
           },
           {
+            "group": "Health & Education",
+            "pages": [
+              "essentials/medical",
+              "essentials/education"
+            ]
+          },
+          {
             "group": "Daily Life",
             "pages": [
               "essentials/getting-around",
